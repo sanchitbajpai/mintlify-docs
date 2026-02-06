@@ -92,4 +92,3 @@ Clean typography
 Spacious layout
 
 
-![alt text](<Screenshot (447).png>) ![alt text](<Screenshot (446).png>) ![alt text](<Screenshot (445).png>) ![alt text](<Screenshot (444).png>) ![alt text](<Screenshot (443).png>) ![alt text](<Screenshot (442).png>) ![alt text](<Screenshot (441).png>) ![alt text](<Screenshot (440).png>) ![alt text](<Screenshot (439).png>)
